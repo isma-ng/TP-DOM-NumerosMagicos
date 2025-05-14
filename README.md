@@ -1,6 +1,6 @@
-## Juego de Adivinanza con Bootstrap y JavaScript
+# Juego de Adivinanza con Bootstrap y JavaScript
 ## 📝 Descripción
-# Este es un juego simple de adivinanza donde el jugador debe descubrir un número aleatorio generado por la aplicación. El juego proporciona pistas indicando si el número ingresado es mayor o menor que el número mágico.
+## Este es un juego simple de adivinanza donde el jugador debe descubrir un número aleatorio generado por la aplicación. El juego proporciona pistas indicando si el número ingresado es mayor o menor que el número mágico.
 
 🎯 Características principales
 Interfaz intuitiva y responsive diseñada con Bootstrap
