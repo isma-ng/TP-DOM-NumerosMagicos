@@ -41,9 +41,9 @@ HTML5
 
 ## 📋 Requisitos
 
-## Navegador web moderno (Chrome, Firefox, Safari, Edge)
+- Navegador web moderno (Chrome, Firefox, Safari, Edge)
 
-## Conexión a Internet (para cargar Bootstrap desde CDN)
+-  Conexión a Internet (para cargar Bootstrap desde CDN)
 
 ## 🖥️ Cómo ejecutar el proyecto
 - Clona este repositorio o descarga los archivos
