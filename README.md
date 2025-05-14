@@ -5,60 +5,61 @@
 ## 🎯 Características principales
 Interfaz intuitiva y responsive diseñada con Bootstrap
 
-Generación de números aleatorios entre 1 y 100
+- Generación de números aleatorios entre 1 y 100
 
-Validación de entrada del usuario
+- Validación de entrada del usuario
 
-Retroalimentación inmediata después de cada intento
+- Retroalimentación inmediata después de cada intento
 
-Sistema de pistas (mayor/menor)
+- Sistema de pistas (mayor/menor)
 
-Diseño limpio y atractivo
+- Diseño limpio y atractivo
 
-Fácil de usar y configurar
+- Fácil de usar y configurar
 
 ## 🛠️ Tecnologías utilizadas
 HTML5
 
-CSS3 (con estilos personalizados)
+- CSS3 (con estilos personalizados)
 
-JavaScript (para la lógica del juego)
+- JavaScript (para la lógica del juego)
 
-Bootstrap 5 (para el diseño y componentes UI)
+- Bootstrap 5 (para el diseño y componentes UI)
 
 ## 🚀 Cómo jugar
-Haz clic en el botón "Comenzar el Juego"
+- Haz clic en el botón "Comenzar el Juego"
 
-Ingresa un número entre 1 y 100 en el campo de texto
+- Ingresa un número entre 1 y 100 en el campo de texto
 
-Presiona "Enviar" o la tecla Enter
+- Presiona "Enviar" o la tecla Enter
 
-Recibirás una pista indicando si el número mágico es mayor o menor
+- Recibirás una pista indicando si el número mágico es mayor o menor
 
-Continúa adivinando hasta encontrar el número correcto
+- Continúa adivinando hasta encontrar el número correcto
 
-¡Ganas cuando aciertes el número mágico!
+- ¡Ganas cuando aciertes el número mágico!
 
 ## 📋 Requisitos
-Navegador web moderno (Chrome, Firefox, Safari, Edge)
 
-Conexión a Internet (para cargar Bootstrap desde CDN)
+## Navegador web moderno (Chrome, Firefox, Safari, Edge)
+
+## Conexión a Internet (para cargar Bootstrap desde CDN)
 
 ## 🖥️ Cómo ejecutar el proyecto
-Clona este repositorio o descarga los archivos
+- Clona este repositorio o descarga los archivos
 
-Abre el archivo index.html en tu navegador favorito
+- Abre el archivo index.html en tu navegador favorito
 
-¡Comienza a jugar!
+- ¡Comienza a jugar!
 
 ## 🎨 Personalización
 Puedes modificar fácilmente:
 
-El rango de números (editando la línea magicNumber = Math.floor(Math.random() * 100) + 1)
+- El rango de números (editando la línea magicNumber = Math.floor(Math.random() * 100) + 1)
 
-Los estilos CSS en la sección <style>
+- Los estilos CSS en la sección <style>
 
-Los mensajes de alerta en el código JavaScript
+- Los mensajes de alerta en el código JavaScript
 
 ## 📜 Licencia
-Este proyecto está bajo la licencia MIT - siéntete libre de usarlo y modificarlo como desees.
+Este proyecto está bajo la licencia MIT © 2025 [ISMAEL ISA] - siéntete libre de usarlo y modificarlo como desees.
